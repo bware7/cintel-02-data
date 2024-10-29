@@ -1,0 +1,4 @@
+pandas
+palmerpenguins
+shiny
+matplotlib
