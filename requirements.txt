@@ -1,4 +1,5 @@
 pandas
-palmerpenguins
-shiny
+plotly
 matplotlib
+seaborn
+palmerpenguins
