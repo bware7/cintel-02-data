@@ -20,6 +20,7 @@ Visualizations and Data Tables:
 
 ## Installation
 To run this project, ensure the following packages are installed:
+
     - pandas
     - plotly
     - matplotlib
